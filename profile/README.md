@@ -1,4 +1,4 @@
-# Welcome to the PythMPG developers page!
+# Welcome to Pyth-MPG!
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18672614-blue.svg)](https://doi.org/10.5281/zenodo.18672614)
 [![readthedocs status](https://app.readthedocs.org/projects/pythmpg/badge/?version=dev)](https://pythmpg.readthedocs.io/en/dev/) 
